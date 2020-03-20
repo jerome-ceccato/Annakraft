@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Annakraft",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": "IATGOF",
   "files": [
     {
@@ -237,6 +237,11 @@
     {
       "projectID": 246974,
       "fileID": 2887575,
+      "required": true
+    },
+    {
+      "projectID": 243076,
+      "fileID": 2745458,
       "required": true
     },
     {
